@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Open Sans", sans-serif;
+}
+
+#page {
+    margin: 5.5rem auto 3.438rem;
+    max-width: 70rem;
+}
+
+.headline {
+    text-transform: uppercase;
+    color: #E1624F;
+    font-weight: bold;
+}
+
+.regionalImages {
+    border-radius: 1.75rem;
+}
