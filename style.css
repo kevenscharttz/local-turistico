@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     font-family: "Open Sans", sans-serif;
+    color: #333333;
 }
 
 #page {
@@ -9,12 +10,38 @@
     max-width: 70rem;
 }
 
+#pageDescription {
+    margin: 2.5rem 0;
+}
+
+#pageDescription p {
+    font-style: italic;
+}
+
+#titlePage h1 {
+    color: #1B1B1B;
+    font-size: 2.25rem;
+    font-weight: bold;
+}
+
+#pageDescription p {
+    text-align: center;
+}
+
 .headline {
+    display: block;
     text-transform: uppercase;
     color: #E1624F;
     font-weight: bold;
+    margin-bottom: 8px;
 }
 
 .regionalImages {
     border-radius: 1.75rem;
+}
+
+.hr {
+    height: 0.063rem;
+    width: 100%;
+    background-color: #D9D9D9;
 }
