@@ -17,5 +17,5 @@ Este é um projeto desenvolvido durante o curso da Rocketseat, onde foi criado u
    ```
 3. Abra o arquivo `index.html` no navegador.
 
-## Autor ✍️👨‍💻🏆
-Desenvolvido por **Keven** para fins acadêmicos.
+## Autor
+Desenvolvido por **Keven Willians** para fins acadêmicos.
