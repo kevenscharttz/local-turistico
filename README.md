@@ -8,11 +8,11 @@ Este é um projeto desenvolvido durante o curso da Rocketseat, onde foi criado u
 
 ## Como Executar o Projeto 📂🔧💡
 1. Clone este repositório:
-   ```sh
+   ```gitbash
    git clone <URL_DO_REPOSITORIO>
    ```
 2. Acesse a pasta do projeto:
-   ```sh
+   ```gitbash
    cd nome-do-projeto
    ```
 3. Abra o arquivo `index.html` no navegador.
